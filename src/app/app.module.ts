@@ -19,7 +19,7 @@ const appRoutes: Routes = [
   },
 
   {
-    path: 'products/:id',
+    path: 'product/:id',
     component: ProductPageComponent
   },
 
