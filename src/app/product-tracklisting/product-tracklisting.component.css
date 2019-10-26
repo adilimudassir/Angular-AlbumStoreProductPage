@@ -4,10 +4,10 @@
 }
 
 ul {
-  list-style: none;
+  list-style-type: none;
 }
 
-ul li {
+li {
   display: block;
   line-height: 30px;
 }
