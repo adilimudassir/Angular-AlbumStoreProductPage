@@ -20,7 +20,7 @@ const appRoutes: Routes = [
   },
 
   {
-    path: 'products',
+    path: 'products/',
     component: ProductListComponent
   },
 
